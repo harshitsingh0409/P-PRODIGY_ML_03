@@ -15,6 +15,7 @@
   Matplotlib for visualizing the results
 ## Dataset
   The dataset consists of labeled images of cats and dogs, which are preprocessed and used to train the SVM model.
+  Dataset link: https://www.kaggle.com/competitions/dogs-vs-cats/data
 
 ## Key Insights
 
