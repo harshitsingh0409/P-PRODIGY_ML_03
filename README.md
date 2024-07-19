@@ -5,16 +5,23 @@
   This project focuses on classifying images of cats and dogs using Support Vector Machines (SVM). The goal is to distinguish between the two categories based on 	image data accurately.
 
 ## Tools & Technologies
+
   Python
+  
   OpenCV for image preprocessing
+  
   Scikit-Learn for implementing the SVM model
+  
   Matplotlib for visualizing the results
 ## Dataset
   The dataset consists of labeled images of cats and dogs, which are preprocessed and used to train the SVM model.
 
 ## Key Insights
+
   A critical role of image preprocessing and feature extraction.
+  
   Strengths of SVM in handling high-dimensional data.
+  
   Importance of parameter tuning (e.g., kernel choice).
 
 ## Results
