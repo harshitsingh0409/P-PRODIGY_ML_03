@@ -2,7 +2,7 @@
 
 # Cat-Dog Image Classification using SVM
 ## Overview
-  This project focuses on classifying images of cats and dogs using Support Vector Machines (SVM). The goal is to accurately distinguish between the two categories     based on image data.
+  This project focuses on classifying images of cats and dogs using Support Vector Machines (SVM). The goal is to distinguish between the two categories based on 	image data accurately.
 
 ## Tools & Technologies
   Python
